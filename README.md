@@ -25,7 +25,7 @@ git clone https://github.com/Debajyoti0-0/ToriFY.git
 * Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Python libraries' requirements.
 
 ```bash
-pip3 install -r requierments.txt
+sudo pip3 install -r requierments.txt
 ```
 * Then install the other requirements.
 ```bash
