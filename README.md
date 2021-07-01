@@ -52,8 +52,7 @@ python3 ip_changer.py
 
 
 ## 📸 Screenshots
-![alt text]()
-![alt text]()
+![alt text](https://github.com/Debajyoti0-0/ToriFY/img/ToriFY.png)
 
 
 
