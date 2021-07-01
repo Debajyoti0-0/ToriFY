@@ -43,7 +43,7 @@ sudo ./install.sh
 
 
 
-## Usage
+## 🎯 Usage
 
 ```bash
 python3 ip_changer.py
