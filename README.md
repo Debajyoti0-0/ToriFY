@@ -12,6 +12,7 @@ ToriFY is a tool to Automate [anonsurf] and [macchanger] to redirect all the tra
 - [Ifconfig](https://en.wikipedia.org/wiki/Ifconfig)
 - [kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
 - [Macchanger](https://da.wikipedia.org/wiki/Macchanger)
+- [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 
 
 
