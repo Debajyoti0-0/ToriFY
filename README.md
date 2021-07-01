@@ -1,6 +1,6 @@
 ## ℹ️ ToriFY
 
-   ToriFY is a tool to Automate [anonsurf] and [macchanger] to redirect all the traffic in your device to TOR and spoof your mac address within a one click. And it also can change your IP in a certain amount for an example every 1 or 10s.
+ToriFY is a tool to Automate [anonsurf] and [macchanger] to redirect all the traffic in your device to TOR and spoof your mac address within a one click. And it also can change your IP in a certain amount for an example every 1 or 10s.
 
 
 ![alt text](https://github.com/Debajyoti0-0/ToriFY/img/1650502.jpg)
@@ -51,6 +51,12 @@ python3 ip_changer.py
 
 
 
+## 📸 Screenshots
+![alt text]()
+![alt text]()
+
+
+
 ## 💚 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -68,6 +74,4 @@ Project Maintainer: [Debajyoti Haldar](https://github.com/Debajyoti0-0/)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/debajyoti0_0) [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/Debajyoti077) [<img src="https://img.icons8.com/color/48/000000/domain.png"/>](https://dailycyberinfo1.blogspot.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/debajyoti-haldar-86ba62153/) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/debajyoti.h)
 
 
-## Screenshots
-![alt text]()
-![alt text]()
+
