@@ -65,5 +65,5 @@ Project Maintainer: [Debajyoti Haldar](https://github.com/Debajyoti0-0/) [[<img 
 
 
 ## Screenshots
-![alt text](https://i.ibb.co/nrCkttX/Screenshot-1.jpg)
-![alt text](https://i.ibb.co/s5pzgqh/Screenshot-2.jpg)
+![alt text]()
+![alt text]()
