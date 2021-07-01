@@ -35,7 +35,7 @@ sudo ./install.sh
 
 
 
-## Features
+## 🎯 Features
 - Redirect all the traffic to TOR network.
 - The Ability to change your IP address every [] seconds.
 - Customize your MAC Address to a Certain vendor like [Samsung,Apple,etc..].
@@ -43,7 +43,7 @@ sudo ./install.sh
 
 
 
-## 🎯 Usage
+## ⁉️ Usage
 
 ```bash
 python3 ip_changer.py
@@ -51,7 +51,7 @@ python3 ip_changer.py
 
 
 
-## Contributing
+## 💚 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
