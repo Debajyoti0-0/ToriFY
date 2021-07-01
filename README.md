@@ -22,12 +22,12 @@ ToriFY is a tool to Automate [anonsurf] and [macchanger] to redirect all the tra
 ```bash
 git clone https://github.com/Debajyoti0-0/ToriFY.git
 ```
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Python libraries' requirements.
+* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Python libraries' requirements.
 
 ```bash
 pip3 install -r requierments.txt
 ```
-Then install the other requirements.
+* Then install the other requirements.
 ```bash
 chmod +x *
 sudo ./install.sh
@@ -58,6 +58,7 @@ python3 ip_changer.py
 
 
 ## 💚 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
