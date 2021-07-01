@@ -61,7 +61,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Distributed under the GNU V3.0 License. See [LICENSE](https://github.com/Debajyoti0-0/ToriFY/blob/main/LICENSE) for more information.
 
 -----
-Project Maintainer: [Debajyoti Haldar](https://github.com/Debajyoti0-0/) [[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/debajyoti0_0) [💬](https://twitter.com/Debajyoti077) [🌐](https://dailycyberinfo1.blogspot.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/debajyoti-haldar-86ba62153/)]
+Project Maintainer: [Debajyoti Haldar](https://github.com/Debajyoti0-0/) [[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/debajyoti0_0) [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/Debajyoti077) [<img src="https://img.icons8.com/color/48/000000/domain.png"/>](https://dailycyberinfo1.blogspot.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/debajyoti-haldar-86ba62153/)]
 
 
 ## Screenshots
