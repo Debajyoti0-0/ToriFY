@@ -71,7 +71,7 @@ Project Maintainer: [Debajyoti Haldar](https://github.com/Debajyoti0-0/)
 
 
 
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/debajyoti0_0) [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/Debajyoti077) [<img src="https://img.icons8.com/color/48/000000/domain.png"/>](https://dailycyberinfo1.blogspot.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/debajyoti-haldar-86ba62153/) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/debajyoti.h)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/debajyoti0_0) [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/Debajyoti077) [<img src="https://img.icons8.com/color/48/000000/domain.png"/>](https://dailycyberinfo1.blogspot.com/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/debajyoti-haldar-86ba62153/) [https://app.hackthebox.eu/images/logos/logo-htb.svg](https://app.hackthebox.eu/profile/387509) [https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg](https://tryhackme.com/p/leo5o5) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/debajyoti.h)
 
 
 
