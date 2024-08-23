@@ -357,7 +357,9 @@ def Engine():
                 clear()
 
             elif(choice == '9'or choice.lower() == 'quit' or choice.lower() == 'exit'):
-                goodbye()
+            	os.system("clear")
+            	banner()
+            	goodbye()
 
             else:
                 print(COLOR.RED + '[-] Wrong Command!' + COLOR.WHITE)
@@ -371,4 +373,3 @@ def Engine():
         goodbye()
 
 Engine()
-
