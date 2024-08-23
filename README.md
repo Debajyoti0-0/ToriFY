@@ -1,6 +1,6 @@
 ## ℹ️ ToriFY
 
-ToriFY is a tool to Automate [anonsurf] and [macchanger] to redirect all the traffic in your device to TOR and spoof your mac address within a one click. And it also can change your IP in a certain amount for an example every 1 or 10s.
+ToriFY is a tool to Automate [anonsurf] and [macchanger] to redirect all the traffic in your device to TOR and spoof your mac address within a one click. And it also can change your IP in a certain amount for an example every 1s or [x]s.
 
 
 ![alt text](https://github.com/Debajyoti0-0/ToriFY/blob/main/img/1650502.jpg)
@@ -37,6 +37,8 @@ pip3 install -r requirements.txt
 * Then install the other requirements.
 ```bash
 chmod +x *
+```
+```bash
 sudo ./install.sh
 ```
 
@@ -44,7 +46,7 @@ sudo ./install.sh
 
 ## 🎯 Features
 - Redirect all the traffic to TOR network.
-- The Ability to change your IP address every [] seconds.
+- The Ability to change your IP address every [x] seconds.
 - Customize your MAC Address to a Certain vendor like [Samsung,Apple,etc..].
 - Show your public ip.
 
